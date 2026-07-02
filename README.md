@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 Face Recognition Attendance System
 
 A Python-based Face Recognition Attendance System that automates attendance marking using real-time face detection and recognition. The application features an intuitive Tkinter GUI for student management, dataset generation, model training, and attendance tracking.
@@ -131,3 +132,7 @@ GitHub: https://github.com/NavedKhan242
 ## ⭐ Support
 
 If you found this project useful, don't forget to **Star ⭐ this repository**.
+=======
+# Face-Recognition-Attendance-System
+A Python-based Face Recognition Attendance System using OpenCV, Tkinter, and Haar Cascade for real-time face detection and automated attendance management
+>>>>>>> 5a2f7ac6fec822163e28266ff42d13dbbb1ab9be
